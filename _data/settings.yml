@@ -11,16 +11,15 @@ menu:
 # - {name: 'Learning Resources', url: 'resources'}
 # - {name: 'Sample Posts',       url: 'sample-posts'}
 # - {name: 'Documentation',      url: 'documentation'}
-# - {name: 'About',              url: 'about'}
+- {name: 'About',              url: 'about'}
 # - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-# - {icon: 'twitter', link:    'https://twitter.com/paululele'}
-# - {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
-# - {icon: 'instagram', link:  'https://instagram.com/paululele'}
-- {icon: 'linkedin', link:  'https://linkedin.com/dalanloudermilk'}
-- {icon: 'envelope', link:   'mailto:dalan@umd.edu'}
+- {icon: 'github',         link: 'https://github.com/dalan-loudermilk'}
+- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=w_I1ajgAAAAJ'}
+- {icon: 'linkedin',       link: 'https://www.linkedin.com/in/dalanloudermilk/'}
+- {icon: 'envelope',       link: 'mailto:dalan@umd.edu'}
 # - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
@@ -29,8 +28,8 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'Share'
 
-related_posts: 'You may also enjoy...'
+related_posts: 'Related: '
 
-post_date_prefix: 'Written on'
+post_date_prefix: 'Posted on'
