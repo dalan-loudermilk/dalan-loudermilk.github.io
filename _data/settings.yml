@@ -10,9 +10,9 @@ menu:
 # - {name: 'Interesting Facts',  url: 'facts'}
 # - {name: 'Learning Resources', url: 'resources'}
 # - {name: 'Sample Posts',       url: 'sample-posts'}
-# - {name: 'Documentation',      url: 'documentation'}
+- {name: 'Blog' , url: 'blog'}
 - {name: 'About', url: 'about'}
-- {name: 'CV',    url: 'cv'}
+- {name: 'CV'   , url: 'cv'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
